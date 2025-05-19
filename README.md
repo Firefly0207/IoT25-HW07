@@ -31,3 +31,11 @@ https://drive.google.com/file/d/1HXvBzpx5t_Fgruiuz1zJ3qvO1O_kR6uc/view?usp=shari
 <img width="631" alt="HW07_server" src="https://github.com/user-attachments/assets/74a593c1-8d95-4a73-831e-58ca6f292c67" />  
 
 ![HW07_client](https://github.com/user-attachments/assets/38f3035b-0aaa-45e1-ba80-d4cfb80033ee)
+
+# IoT25-HW07-Advanced  
+
+# Demo Video
+https://drive.google.com/file/d/12mcyeOLW7W3domfxhaxDAemsrWRHS0Er/view?usp=sharing
+
+# Screenshot  
+![Advanced](https://github.com/user-attachments/assets/52b71de3-e533-45fd-b873-669976d89138)
